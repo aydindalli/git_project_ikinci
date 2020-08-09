@@ -7,6 +7,7 @@ public class Deneme {
 		System.out.println("Tabii bijwerken=guncellemek");
 		System.out.println("remote degisikligi");
 		System.out.println("Tekrar geri gidelim");
+		System.out.println("Cakisma Aydin");
 
 	}
 
